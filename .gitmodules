@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "data.table.threads"]
+	path = data.table.threads
+	url = https://github.com/anirban166/data.table.threads
